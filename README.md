@@ -18,4 +18,4 @@ Ele então empacota o aplicativo utilizando o `gulp` através do `npm`.
 
 Esse projeto está sob a licença [MIT](https://www.opensource.org/licenses/mit-license.php)
 
-Baseado no projeto [MIT](https://github.com/ricardomansano/reactron)
+Baseado no projeto [Reactron](https://github.com/ricardomansano/reactron)
